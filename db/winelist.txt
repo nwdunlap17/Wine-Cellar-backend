@@ -1,0 +1,15 @@
+name;year;brand;country/state;region;Wine Type;Varietal;Style;Taste;Body;SKU
+AMICI CABERNET SAUVIGNON NAPA;2016;Amici;California;Napa Valley;Red Wine;Cabernet Sauvignon;Intense;Blackberry, Vanilla, Spice;Full-bodied;20095750-1;$49.99
+BISHOP'S RING CABERNET NAPA;Bishop's Ring;California;Napa Valley;Red Wine;Cabernet Sauvignon;Intense;Black Currant, Black Plum, Blackberry;Full-bodied;184733750-1;$49.99
+AUSTIN HOPE CABERNET SAUVIGNON PASO ROBLES;2017;Austin Hope;California;Central Coast;Paso Robles;Red Wine;Cabernet Sauvignon;214765750-1;$45.99
+STAGS' LEAP CABERNET NAPA;Stags' Leap;California;Napa Valley;Red Wine;Cabernet Sauvignon;Elegant;Blackberry, Vanilla;Full-bodied;13388750-1;$42.97
+BALDACCI FOUR SONS FRATERNITY NAPA VALLEY;Baldacci;California;Napa Valley;Red Wine;Cabernet Sauvignon;Concentrated;Blackberry, Chocolate;Full-bodied;116117750-1;$49.99
+FAUST CABERNET NAPA;2016;Faust;California;Napa Valley;Red Wine;Cabernet Sauvignon;38410750-1;$49.97
+SEQUOIA GROVE CABERNET;2016;Sequoia Grove;California;Napa Valley;Red Wine;Cabernet Sauvignon;5169750-1;$43.49
+QUILT CABERNET SAUVIGNON NAPA VALLEY;2016;Quilt;California;Napa Valley;Red Wine;Cabernet Sauvignon;177533750-1;$49.99
+HONIG CABERNET NAPA;Honig;California;Napa Valley;Red Wine;Cabernet Sauvignon;Intense;Black Currant, Mocha, Oak;Full-bodied;93908750-1;$44.99
+KG3 CABERNET SAUVIGNON NAPA VALLEY;KG3;California;Napa Valley;St. Helena;Red Wine;Cabernet Sauvignon;Elegant;Cassis, Cocoa;Full-bodied;147678750-1;$49.99
+HEITZ CABERNET NAPA;2014;Heitz;California;Napa Valley;Red Wine;Cabernet Sauvignon;Concentrated;Earth, Mint, Spice;Full-bodied;256750-1;$49.97
+FREEMARK ABBEY CABERNET NAPA;2015;Freemark Abbey;California;Napa Valley;Red Wine;Cabernet Sauvignon;7015750-1;$42.99
+ORIN SWIFT CABERNET SAUVIGNON PALERMO;2015;Orin Swift;California;Napa Valley;Red Wine;Cabernet Sauvignon;115981750-1;$41.97
+TETHER CABERNET NAPA VALLEY;2015;Tether;California;Napa Valley;Red Wine;Cabernet Sauvignon;Elegant;Raspberry, Cherry;Full-bodied;226525750-1;$49.99

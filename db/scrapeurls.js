@@ -44,13 +44,6 @@ async function crawlCatalogue(page, catalogueURL){
     WineUrls.forEach(async (url) => {
         fs.appendFile('./scrapeurls.txt',url+'\n', (err) => {if(err){throw err;}}) 
     })
-
-    WineUrls.forEach(async (url) => {
-        console.log(url)
-        waitFor(1000)
-        await scrapeWine(page, url);
-        return null;
-    })
     return null;
 }
 
@@ -94,5 +87,5 @@ async function scrapeWine(page, wineURL){
     return null;
 }
 
-fs.writeFile('./scrapeurls.txt','winelist\n', (err) => {if(err){throw err;}})     
+fs.writeFile('./scrapeurls.txt','', (err) => {if(err){throw err;}})     
 openTest();
